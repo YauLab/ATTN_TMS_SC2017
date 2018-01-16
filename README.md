@@ -22,4 +22,4 @@ Experiment 2 - Intensity discrimination. For each subject (n= 1:15) a total of 1
 •	Localization Task: 2 .mat files (Baseline Localization Task [LocTask_Base]; S1 TMS Localization Task [LocTask_S1TMS]).
 2 .xlsx files:
 •	raw EMG trace for the control site TMS session ([rawEMG_CTRLsite]);
-•	raw EMG trace for the S1 TMS session ([rawEMG_S1site]).
+•	raw EMG trace for the S1 TMS session ([rawEMG_S1site])
