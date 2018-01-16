@@ -1,0 +1,10 @@
+This folder contains the matlab codes necessary for analyzing raw data from experiment 1 (frequency discrimination) and experiment 2 (intensity discrimination).
+
+
+ANCD_ExpX_AudioBlock.m:   Single-subject analysis code for the auditory block. The code calculates the mean probability correct values for the auditory unimodal block. 
+
+ANCD_ ExpX_TactileBlock.m: Single-subject analysis code for tactile block. The code calculates mean probability correct values for the tactile unimodal block. 
+
+ANCD_ ExpX_MixedBlock.m:   Single-subject analysis code for the mixed block. The code calculates mean probability correct values for the tactile-only and (separately auditory-only trials in the mixed block.
+
+ANCD_LocalTask.m:    Single-subject analysis code for the localization task. The code works for both baseline and S1 TMS localization task.
